@@ -1,0 +1,35 @@
+
+p{
+    font-size: 80px;
+    font-weight: 500;
+    padding-bottom: 30px;
+}
+.ke{
+    position: absolute;
+    left: 25%;
+    top: 10%;
+    width: 50em;
+    height: 35em;
+    background-color: rgb(255, 244, 224);
+    border: 1px solid grey ;
+    padding: 2%;
+}
+button{
+    width: 4em;
+    height: 3em;
+    border-radius: 20%;
+    font-size: 40px;
+    background-color: rgb(199, 199, 199);
+    margin-left: 40px;
+}
+#kom:hover{
+    background-color: rgb(57, 210, 60);
+    color: white;
+}
+#yon:hover{
+    background-color: rgb(186, 35, 35);
+    color: white;
+}
+#output{
+    font-size: 50px;
+}
